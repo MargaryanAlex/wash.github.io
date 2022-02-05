@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/wash.github.io.git/static/css/main.7d0a95bc.css",
+    "main.js": "/wash.github.io.git/static/js/main.7fc23db9.js",
+    "static/media/car.png": "/wash.github.io.git/static/media/car.5213b01011bb53de4b6d.png",
+    "static/media/logoBW.svg": "/wash.github.io.git/static/media/logoBW.075b7e268499fc27055e6fa825fb92f0.svg",
+    "static/media/logo.svg": "/wash.github.io.git/static/media/logo.23af2bedc456ad3d10af313551ac5a7a.svg",
+    "static/media/phone.svg": "/wash.github.io.git/static/media/phone.22376f148d8b1ab12046ded5755aa9be.svg",
+    "index.html": "/wash.github.io.git/index.html",
+    "static/media/flagArmenia.svg": "/wash.github.io.git/static/media/flagArmenia.9cdccecda18453a80a90a41c083ed1f1.svg",
+    "static/media/arrowDown.svg": "/wash.github.io.git/static/media/arrowDown.4b76ae974d6bbd79c1a95b30052f2262.svg",
+    "main.7d0a95bc.css.map": "/wash.github.io.git/static/css/main.7d0a95bc.css.map",
+    "main.7fc23db9.js.map": "/wash.github.io.git/static/js/main.7fc23db9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d0a95bc.css",
+    "static/js/main.7fc23db9.js"
+  ]
+}
